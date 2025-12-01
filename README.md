@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **romaincecile60@gmail.com**
 
-- 📄 Know about my experiences [Several internships as a developer analyst at Crédit Mutuel.](Several internships as a developer analyst at Crédit Mutuel.)
+- 📄 Know about my experiences Several internships as a developer analyst at Crédit Mutuel.](Several internships as a developer analyst at Crédit Mutuel.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
