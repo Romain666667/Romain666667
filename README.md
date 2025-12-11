@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Romain</h1>
 <h3 align="center">Just a student</h3>
 
-- 🔭 I’m currently working on [BlackJack APP](https://github.com/Romain666667/Projet-BlackJack)
+- 🔭 I’m currently working on [BlackJack APP](https://github.com/Romain666667/Projet-BlackJackk)
 
 - 🌱 I’m currently learning **Symfony, Flutter.**
 
