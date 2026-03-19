@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Romain</h1>
 <h3 align="center">Just a student</h3>
 
-- 🔭 I’m currently working on [SymfonyCine](https://github.com/Romain666667/SymfonyCine)
+- 🔭 I’m currently working on [SymfonyCine](https://github.com/Romain666667/SymfonyCine) and [Projet Budget](https://github.com/Romain666667/ProjetBudget)
 
 - 🌱 I’m currently learning **Symfony, Flutter.**
 
